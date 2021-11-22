@@ -6,3 +6,11 @@
 .container{
     margin-top:50px;
 }
+
+h1,h2{
+    margin-left: 20px;
+}
+.colored{
+    background-color: blue;
+    margin-top:20px;
+}
